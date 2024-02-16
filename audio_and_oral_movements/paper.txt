@@ -1,0 +1,110 @@
+1). What is the output of the following code snippet?
+       x = 5
+       y = 2
+       print(x // y)
+a) 2
+b) 2.5
+c) 3
+d) 2.0
+
+2). Which of the following is not a valid Python variable name?
+
+a) my_var
+b) 123_var
+c) _var
+d) var_123
+
+3). What will be the output of the following code?
+print(len("python"))
+a) 6
+b) 7
+c) 5
+d) None
+
+4). Which of the following is used to add an item to the end of a list in Python?
+
+a) append()
+b) extend()
+c) insert()
+d) add()
+
+5). What does the range() function in Python return?
+
+a) A list of integers
+b) A tuple of integers
+c) A generator of integers
+d) A dictionary of integers
+
+6). What does the following expression evaluate to?
+True and False
+a) True
+b) False
+c) None
+d) Error
+
+7). Which of the following is used to read user input in Python?
+
+a) read()
+b) input()
+c) get_input()
+d) get_user_input()
+
+8). What is the output of the following code?
+x = [1, 2, 3]
+y = x
+y[0] = 4
+print(x)
+a) [1, 2, 3]
+b) [4, 2, 3]
+c) [4, 2, 3]
+d) [1, 2, 3, 4]
+
+9). What is the result of the following operation in Python?
+2 ** 3
+a) 6
+b) 8
+c) 16
+d) 5
+
+10). What does the strip() method in Python do?
+
+a) Removes leading and trailing whitespace
+b) Removes all whitespace from the string
+c) Converts the string to uppercase
+d) Converts the string to lowercase
+
+11). What is the output of the following code?
+x = "hello"
+print(x[::-1])
+a) hello
+b) olleh
+c) h
+d) o
+
+12). Which of the following is the correct way to open a file in Python for reading?
+a) file = open("example.txt", "r")
+b) file = open("example.txt", "w")
+c) file = open("example.txt", "a")
+d) file = open("example.txt", "x")
+
+13). What is the output of the following code?
+x = [1, 2, 3]
+y = x[:]
+y[0] = 4
+print(x)
+a) [1, 2, 3]
+b) [4, 2, 3]
+c) [1, 2, 3, 4]
+d) Error
+
+14). Which of the following is not a valid data type in Python?
+a) int
+b) float
+c) string
+d) character
+
+15). What does the __init__ method in Python represent?
+a) It is the constructor method for a class
+b) It is a method used to initialize a list
+c) It is a built-in function in Python
+d) It is a method used to print output
